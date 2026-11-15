@@ -2,11 +2,11 @@
 >
 > *This is a translation. If it differs from the English original, the English governs.*
 >
-> 성경 인용은 영어(King James Version, KJV)로 싣고, 옆에 개역한글(1961, 퍼블릭 도메인)을 함께 실었습니다.
+> 성경 인용은 영어(King James Version, KJV)로 싣고, 옆에 1938년 『셩경 개역』(퍼블릭 도메인)을 당시 맞춤법 그대로 함께 실었습니다.
 
 # Open Wearable BCI가 존재하는 이유
 
-*"하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라" (요한복음 3:16, 개역한글)*\
+*"하나님이 셰샹을 이처럼 사랑하샤 독생자를 주셧스니 이는 뎌를 밋는쟈마다 멸망치안코 영생을 엇게 하려하심이니라" (요한복음 3:16, 셩경 개역, 1938)*\
 *"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." (John 3:16, KJV)*
 
 *프로젝트 책임자: Rob Roy. 연락처: [README](../../../README.md#contact)를 참고하세요.*
@@ -22,7 +22,7 @@
 
 ## 우리의 출발점
 
-우리는 기기가 아니라 하나님에게서 시작합니다. 모든 사람은 하나님의 형상대로 지음받았습니다(Genesis 1:27). 사람은 최적화할 신호도, 차지할 시장도 아닙니다. 지혜는 대역폭이 아니라 여호와를 경외하는 데서 시작됩니다(Proverbs 9:10). 연결이 빨라진다고 누가 더 지혜롭거나, 더 친절하거나, 더 거룩해지지는 않습니다. 그런 척도 하지 않겠습니다. 예수님은 "not to be ministered unto, but to minister"(Mark 10:45, KJV) 오셨습니다. 한국어로는 "인자의 온 것은 섬김을 받으려 함이 아니라 도리어 섬기려 하고 자기 목숨을 많은 사람의 대속물로 주려 함이니라"(마가복음 10:45, 개역한글)입니다. 우리는 그 본을 따르며, 우리가 손대는 어떤 도구도 똑같이 섬기는 것이어야 합니다.
+우리는 기기가 아니라 하나님에게서 시작합니다. 모든 사람은 하나님의 형상대로 지음받았습니다(Genesis 1:27). 사람은 최적화할 신호도, 차지할 시장도 아닙니다. 지혜는 대역폭이 아니라 여호와를 경외하는 데서 시작됩니다(Proverbs 9:10). 연결이 빨라진다고 누가 더 지혜롭거나, 더 친절하거나, 더 거룩해지지는 않습니다. 그런 척도 하지 않겠습니다. 예수님은 "not to be ministered unto, but to minister"(Mark 10:45, KJV) 오셨습니다. 한국어로는 "인자의 온것은 셤김을 밧으랴함이 아니라 도로혀 셤기려하고 자긔 목숨을 만흔사람의 대쇽물노 주려함이니라"(마가복음 10:45, 셩경 개역, 1938)입니다. 우리는 그 본을 따르며, 우리가 손대는 어떤 도구도 똑같이 섬기는 것이어야 합니다.
 
 ## 왜 오픈 소스인가
 
@@ -60,7 +60,7 @@
 
 우리는 우리 이름을 내려고 새로운 바벨탑을 쌓는 것이 아닙니다(Genesis 11:4). 이 기술이 다가올 때, 그리고 실제로 다가오고 있는데, 그 자리에 "이것이 정말 눈앞의 이 사람을 섬기고 있는가"를 묻는 사람들이 있게 하려는 것입니다.
 
-바울은 이렇게 썼습니다. "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others"(Philippians 2:3-4, KJV). 한국어로는 "아무 일에든지 다툼이나 허영으로 하지 말고 오직 겸손한 마음으로 각각 자기보다 남을 낫게 여기고 각각 자기 일을 돌아볼 뿐더러 또한 각각 다른 사람들의 일을 돌아보아 나의 기쁨을 충만케 하라"(빌립보서 2:3-4, 개역한글)입니다. 바울은 이것을 그리스도의 겸손에 뿌리를 두었습니다(5-8절). 그것이 우리가 여기서 스스로에게 요구하는 자세입니다. 누구도 억지로 끌어들이지 않고, 누구도 밀어내지 않으며, 기기를 착용한 사람이 기기보다, 그리고 기기를 만드는 사람들보다 더 소중합니다.
+바울은 이렇게 썼습니다. "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others"(Philippians 2:3-4, KJV). 한국어로는 "아모 일에던지 닷톰이나 허영으로 하지말고 오직 겸손한마암으로 각각 자긔보다 남을 낫게 녁이고 각각 자긔 일을 도라볼ᄲᅮᆫ더러 ᄯᅩ한각각 다른 사람들의 일을 도라보아 나의 깃븜을 츙만케하라"(빌립보서 2:3-4, 셩경 개역, 1938)입니다. 바울은 이것을 그리스도의 겸손에 뿌리를 두었습니다(5-8절). 그것이 우리가 여기서 스스로에게 요구하는 자세입니다. 누구도 억지로 끌어들이지 않고, 누구도 밀어내지 않으며, 기기를 착용한 사람이 기기보다, 그리고 기기를 만드는 사람들보다 더 소중합니다.
 
 이 일이 당신에게도 중요하다면, 함께해 주세요. [CONTRIBUTING.md](../../../CONTRIBUTING.md)부터 시작하시면 됩니다. 이 프로젝트의 책임자는 저입니다. 질문이나 걱정, 고칠 점이 있다면 저에게 가져와 주세요.
 

@@ -2,11 +2,11 @@
 >
 > *This is a translation. If it differs from the English original, the English governs.*
 >
-> 经文先列英文（King James Version，KJV），旁附中文和合本（新标点和合本简体版，经文为 1919 年和合本，eBible.org 标注为公有领域）。
+> 经文先列英文（King James Version，KJV），旁附 1919 年官话和合本原文（公有领域）。原版为繁体，此处由本项目逐字转换为简体，保留 1919 年原版标点与用词。
 
 # 为什么要有 Open Wearable BCI
 
-*“神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不致灭亡，反得永生。”（约翰福音 3:16，和合本）*\
+*“　神爱世人、甚至将他的独生子赐给他们、叫一切信他的、不至灭亡、反得永生。”（约翰福音 3:16，官话和合本，1919）*\
 *"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." (John 3:16, KJV)*
 
 *项目负责人：Rob Roy。联系方式：见 [README](../../../README.md#contact)。*
@@ -22,7 +22,7 @@
 
 ## 我们从哪里开始
 
-我们从神开始，而不是从设备开始。每个人都是照着神的形象造的（Genesis 1:27）。人不是一个有待优化的信号，也不是一块有待抢占的市场。智慧始于敬畏主（Proverbs 9:10），而不是始于带宽。更快的连接不会让任何人更有智慧、更善良或更圣洁，我们也不会假装它能。耶稣来，"not to be ministered unto, but to minister"（Mark 10:45, KJV）。中文：“因为人子来，并不是要受人的服事，乃是要服事人，并且要舍命作多人的赎价。”（马可福音 10:45，和合本）。我们效法这个榜样，我们经手的任何工具也都必须以同样的方式服事人。
+我们从神开始，而不是从设备开始。每个人都是照着神的形象造的（Genesis 1:27）。人不是一个有待优化的信号，也不是一块有待抢占的市场。智慧始于敬畏主（Proverbs 9:10），而不是始于带宽。更快的连接不会让任何人更有智慧、更善良或更圣洁，我们也不会假装它能。耶稣来，"not to be ministered unto, but to minister"（Mark 10:45, KJV）。中文：“因为人子来、并不是要受人的服事、乃是要服事人、并且要舍命、作多人的赎价。”（马可福音 10:45，官话和合本，1919）。我们效法这个榜样，我们经手的任何工具也都必须以同样的方式服事人。
 
 ## 为什么开源
 
@@ -60,7 +60,7 @@
 
 我们不是要再建一座巴别塔来传扬自己的名（Genesis 11:4）。我们是想确保，当这项技术到来的时候（它正在到来），屋子里会有人问一句：它是否真的在服务眼前这个人。
 
-保罗写道："Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others"（Philippians 2:3-4, KJV）。中文：“凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。各人不要单顾自己的事，也要顾别人的事。”（腓立比书 2:3-4，和合本）。他把这一点建立在基督的谦卑上（5-8 节）。这就是我们在这里要求自己的姿态：不强拉任何人入伙，不把任何人挤到一边，戴设备的那个人比设备本身、也比造设备的人更重要。
+保罗写道："Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others"（Philippians 2:3-4, KJV）。中文：“凡事不可结党、不可贪图虚浮的荣耀．只要存心谦卑、各人看别人比自己强。各人不要单顾自己的事、也要顾别人的事。”（腓立比书 2:3-4，官话和合本，1919）。他把这一点建立在基督的谦卑上（5-8 节）。这就是我们在这里要求自己的姿态：不强拉任何人入伙，不把任何人挤到一边，戴设备的那个人比设备本身、也比造设备的人更重要。
 
 如果你也在乎这些，来一起干吧。先从 [CONTRIBUTING.md](../../../CONTRIBUTING.md) 看起。这个项目由我负责，所以如果你有问题、顾虑或更正，直接来找我。
 

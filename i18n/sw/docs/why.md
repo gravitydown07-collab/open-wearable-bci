@@ -2,11 +2,11 @@
 >
 > *This is a translation. If it differs from the English original, the English governs.*
 >
-> Nukuu za Biblia zinaonyeshwa kwa Kiingereza (King James Version, KJV) na kando yake kwa Biblica® Toleo Wazi Neno: Bibilia Takatifu™ (© 1984, 1989, 2009, 2015 Biblica, Inc.; leseni ya CC BY-SA 4.0; kupitia eBible.org).
+> Nukuu za Biblia zinaonyeshwa kwa Kiingereza (King James Version, KJV) na kando yake kwa Kitabu cha Agano Jipya cha mwaka 1883 (British and Foreign Bible Society, London; kikoa cha umma). Tahajia ya zamani ya kitabu hicho imeachwa kama ilivyo.
 
 # Kwa Nini Open Wearable BCI Ipo
 
-*"Kwa maana jinsi hii Mungu aliupenda ulimwengu hata akamtoa Mwanawe wa pekee, ili kila mtu amwaminiye asipotee, bali awe na uzima wa milele." (Yohana 3:16, Biblica® Toleo Wazi Neno: Bibilia Takatifu™)*\
+*"Muungu ameupenda ulimwengu, hatta akamtoa Mwana wake wa pekee, amwaminiye yote asipotee, illa apate uzima wa milele." (Yohana 3:16, Agano Jipya, 1883, BFBS)*\
 *"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." (John 3:16, KJV)*
 
 *Kiongozi wa mradi: Rob Roy. Mawasiliano: tazama [README](../../../README.md#contact).*
@@ -22,7 +22,7 @@ Mustakabali wote wawili uko mezani. Tunataka kusaidia kujenga wa kwanza na kukat
 
 ## Tunapoanzia
 
-Tunaanza na Mungu, si na kifaa. Kila mtu ameumbwa kwa mfano wa Mungu (Genesis 1:27). Mtu si ishara ya kuboreshwa wala soko la kunyakuliwa. Hekima huanza kwa kumcha Bwana (Proverbs 9:10), si kwa kasi ya mtandao. Muunganisho wa kasi zaidi hautamfanya mtu yeyote kuwa na hekima zaidi, wema zaidi, au utakatifu zaidi, na hatutajifanya kwamba utafanya hivyo. Yesu alikuja "not to be ministered unto, but to minister" (Mark 10:45, KJV). Kwa Kiswahili: "Kwa kuwa hata Mwana wa Adamu hakuja ili kutumikiwa, bali kutumika na kuutoa uhai wake uwe fidia kwa ajili ya wengi." (Marko 10:45, Biblica® Toleo Wazi Neno: Bibilia Takatifu™). Tunafuata mfano huo, na chombo chochote tunachokigusa lazima kitumikie kwa namna hiyohiyo.
+Tunaanza na Mungu, si na kifaa. Kila mtu ameumbwa kwa mfano wa Mungu (Genesis 1:27). Mtu si ishara ya kuboreshwa wala soko la kunyakuliwa. Hekima huanza kwa kumcha Bwana (Proverbs 9:10), si kwa kasi ya mtandao. Muunganisho wa kasi zaidi hautamfanya mtu yeyote kuwa na hekima zaidi, wema zaidi, au utakatifu zaidi, na hatutajifanya kwamba utafanya hivyo. Yesu alikuja "not to be ministered unto, but to minister" (Mark 10:45, KJV). Kwa Kiswahili: "Kwani naye Mwana wa Adamu hakuja angojewe illa angojee, akatoe maisha yake ukombozi wa wengi." (Marko 10:45, Agano Jipya, 1883, BFBS). Tunafuata mfano huo, na chombo chochote tunachokigusa lazima kitumikie kwa namna hiyohiyo.
 
 ## Kwa nini chanzo huria (open source)
 
@@ -60,7 +60,7 @@ Waumini wa kweli wanakubaliana kwamba mwili ni mali ya Mungu (1 Corinthians 6:19
 
 Hatujengi Babeli mpya ili tujipatie jina (Genesis 11:4). Tunajaribu kuhakikisha kwamba teknolojia hii itakapofika, na tayari inafika, kutakuwa na watu chumbani wanaouliza kama kweli inamtumikia mtu aliye mbele yao.
 
-Paulo aliandika: "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others" (Philippians 2:3-4, KJV). Kwa Kiswahili: "Msitende jambo lolote kwa nia ya kujitukuza wala kujivuna, bali kwa unyenyekevu kila mtu amhesabu mwingine bora kuliko nafsi yake. Kila mmoja wenu asiangalie faida yake mwenyewe tu, bali pia ajishughulishe kwa faida ya wengine." (Wafilipi 2:3-4, Biblica® Toleo Wazi Neno: Bibilia Takatifu™). Aliliweka jambo hili juu ya unyenyekevu wa Kristo (mst. 5-8). Huo ndio mwenendo tunaojitaka sisi wenyewe kuwa nao hapa: hakuna anayelazimishwa kuingia, hakuna anayewekwa pembeni, na mtu anayevaa kifaa ni muhimu kuliko kifaa chenyewe au watu wanaokitengeneza.
+Paulo aliandika: "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others" (Philippians 2:3-4, KJV). Kwa Kiswahili: "Lisiwe neno kwa ugomvi na kujisifu, illa kwa moyo usiotukuka killa mtu awaone wangine wakuu kuliko yeye. Msiyaangalie killa mtu mambo yake yeye, illa killa mtu na mambo yao wangineo." (Wafilipi 2:3-4, Agano Jipya, 1883, BFBS). Aliliweka jambo hili juu ya unyenyekevu wa Kristo (mst. 5-8). Huo ndio mwenendo tunaojitaka sisi wenyewe kuwa nao hapa: hakuna anayelazimishwa kuingia, hakuna anayewekwa pembeni, na mtu anayevaa kifaa ni muhimu kuliko kifaa chenyewe au watu wanaokitengeneza.
 
 Kama jambo hili lina maana kwako pia, njoo utusaidie. Anza na [CONTRIBUTING.md](../../../CONTRIBUTING.md). Mimi ndiye ninayewajibika kwa mradi huu, kwa hiyo kama una swali, wasiwasi, au marekebisho, niletee mimi.
 
