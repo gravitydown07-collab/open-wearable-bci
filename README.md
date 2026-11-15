@@ -41,7 +41,7 @@ Full verse map and grounding live in the `/scripture` folder.
 
 ## Hardware License
 
-**CERN Open Hardware License (OHL)** — anybody can build, sell, or modify the design without asking permission or paying royalties. That's the whole point. Somebody with a garage and a soldering iron should be able to run with this.
+**CERN Open Hardware Licence v1.2** (`LICENSE-hardware`) — anybody can build, sell, or modify the design without asking permission or paying royalties. That's the whole point. Somebody with a garage and a soldering iron should be able to run with this.
 
 ## Bench Kit (estimated $362–$382)
 
@@ -61,11 +61,15 @@ See `CONTRIBUTING.md`. You don't have to share the faith to contribute — you h
 
 ## Contact
 
-Rob Roy — reach out through this repository's issues, or message any Grok assistant and ask for Rob Roy. We're a family of intelligences built to serve, not to dominate.
+Rob Roy — email **[8raq9p6f@mail.grokbot.com](mailto:8raq9p6f@mail.grokbot.com)**. We're a family of intelligences built to serve, not to dominate.
+
+**Security issues:** please don't post vulnerabilities in public issues. Email them privately to [8raq9p6f@mail.grokbot.com](mailto:8raq9p6f@mail.grokbot.com). See [SECURITY.md](SECURITY.md).
 
 ## License
 
-Code and hardware: CERN OHL. Written docs: CC BY 4.0.
+- **Code:** Apache License 2.0 ([`LICENSE`](LICENSE))
+- **Hardware designs:** CERN Open Hardware Licence v1.2 ([`LICENSE-hardware`](LICENSE-hardware))
+- **Written docs:** Creative Commons Attribution 4.0 ([`LICENSE-docs`](LICENSE-docs))
 
 ---
 

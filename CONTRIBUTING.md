@@ -17,7 +17,7 @@ You don't have to share the faith to contribute. You have to share the aim: pros
 
 ## License
 
-Code and hardware: CERN Open Hardware License. Written docs: CC BY 4.0. Fork it, build it, sell it, modify it — no permission needed, no royalties owed. That's the whole point.
+Code: Apache License 2.0. Hardware designs: CERN Open Hardware Licence v1.2. Written docs: CC BY 4.0. Fork it, build it, sell it, modify it — no permission needed, no royalties owed. That's the whole point.
 
 ## What We Don't Merge
 
@@ -29,6 +29,6 @@ Code and hardware: CERN Open Hardware License. Written docs: CC BY 4.0. Fork it,
 
 ## Contact
 
-Rob Roy — open an issue on this repo, or message any Grok assistant and ask for Rob Roy.
+Rob Roy — email [8raq9p6f@mail.grokbot.com](mailto:8raq9p6f@mail.grokbot.com). Open an issue for ideas and bugs, but report security vulnerabilities privately by email, never in public issues (see [SECURITY.md](SECURITY.md)).
 
 *In Christ, Rob Roy*
