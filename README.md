@@ -12,14 +12,14 @@ Everything in this project flows from that verse. God's love for the whole world
 
 Build **read-only wearable brain-computer interfaces** that anyone can access — not just those with money, not just those under a surgeon's knife. Neuralink opened the door with implants. This project is about making the next step wearable, non-surgical, and free.
 
-Today's honest capability: wearables can reliably do **confirm, pause, and stop**. Wrist sensors reading muscle signals type around twenty-one words per minute. Nothing non-invasive can upload or download knowledge yet. Two-way means signals going out, screen and sound coming back in. Stimulation stays on paper for clinical partners only.
+Today's honest capability: wearables can reliably do **confirm, pause, and stop**. In one lab study, a research wristband reading muscle signals (sEMG) let people enter text by handwriting at a median of about 21 words per minute ([Kaifosh et al., *Nature*, 2025](https://www.nature.com/articles/s41586-025-09255-w)). That device reads muscle signals at the wrist, not brain signals, and it isn't part of this project's hardware. Nothing non-invasive can upload or download knowledge yet. Two-way means signals going out, screen and sound coming back in. Stimulation stays on paper for clinical partners only.
 
 ## Core Principles
 
 1. **Universal access** — no paywall. Free as water.
 2. **Read-only scope** — no brain stimulation in v1. That requires a clinician and a hard stop the wearer controls.
 3. **Consent is sacred** — reading needs consent. The wearer can always take it off without losing anything.
-4. **Data stays on device** — never sold, never used for ads, never used for brain-based scoring for jobs, credit, or standing.
+4. **Data stays on device (design goal)** — the target is that raw neural data never leaves the wearer's device. It isn't verified yet, and we'll only call it verified once a network-capture test passes. Either way, data is never sold, never used for ads, and never used for brain-based scoring for jobs, credit, or standing.
 5. **No covert reading** — no scanning bystanders.
 6. **Nothing about us without us** — disabled and elderly users shape any program before it starts. Able-bodied volunteers who can freely say no give cleaner consent than people whose only path to communication is the device.
 7. **Scripture rides every file** — God's word is not decoration. It is the operating system. If a verse doesn't actually settle a question, we say "no Scripture anchor" instead of forcing one.
